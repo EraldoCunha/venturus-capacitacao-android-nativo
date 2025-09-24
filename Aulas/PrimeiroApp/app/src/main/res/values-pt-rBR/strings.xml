@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Primeiro App</string>
+    <string name="app_text"> Olá Brasil!!</string>
+    <string name="app_image_description">Imagem Central do Aplicativo</string>
+</resources>
